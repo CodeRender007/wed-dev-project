@@ -25,11 +25,11 @@ async function loadHotels() {
                         <h3>${hotel.name}</h3>
 
                         <p class="location">
-                            📍 ${hotel.location}
+                             ${hotel.location}
                         </p>
 
                         <p class="rating">
-                            ⭐ ${hotel.rating}
+                             ${hotel.rating}
                         </p>
 
                         <p class="price">

@@ -1,4 +1,4 @@
-/* Google Font */
+
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
 
 *{
@@ -13,7 +13,7 @@ body{
     color:#333;
 }
 
-/* Navbar */
+
 
 .navbar{
     display:flex;
@@ -49,7 +49,7 @@ body{
     color:#0077ff;
 }
 
-/* Hero */
+
 
 .hero{
     height:85vh;
@@ -93,7 +93,7 @@ body{
     background:#005bd3;
 }
 
-/* Featured */
+
 
 .featured{
     padding:70px 8%;
@@ -110,8 +110,6 @@ body{
     grid-template-columns:repeat(auto-fit,minmax(270px,1fr));
     gap:25px;
 }
-
-/* Card */
 
 .card{
     background:#fff;
@@ -170,7 +168,6 @@ body{
     background:#005bd3;
 }
 
-/* Footer */
 
 footer{
     background:#111;
@@ -180,7 +177,7 @@ footer{
     margin-top:60px;
 }
 
-/* Responsive */
+
 
 @media(max-width:768px){
 
